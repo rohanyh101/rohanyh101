@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm rohanyh</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">HI 👋, I'M ROHANYH</h1>
+<h3 align="center">A PASSIONATE FULL-STACK DEVELOPER FROM INDIA</h3>
 
 
 <p align="center">
@@ -12,17 +12,28 @@
     <a href="https://github.com/rohanyh101/rohanyh101"><img src="https://visitor-badge.lithub.cc/badge?page_id=rohanyh101.MyREADME.MD"></a>
 </p>
 
-<img align="right" alt="Coding" width="370" src="https://giffiles.alphacoders.com/296/2968.gif"/>
 
-- 🔭 I’m currently working on **E-commerce App**
+<img align="right" alt="Coding" width="370" src="https://giffiles.alphacoders.com/296/2968.gif"/>
+<!--
+<img align="right" alt="Coding" width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanyh101&layout=donut"/>
+-->
+
+- 🔭 I’m currently working on **eCommerce Application**
 - 🤝 Like collaborating with like-minded software developers on various
       </br> projects in interest on Microservices and Scaling
 - 🌱 I’m currently learning **gRPC, Prometheus, Grafana**
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/rohanyh101)
 - 💬 Ask me about anything tech related, I am happy to help;
-- 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rohan-honnakatti-040b03241/), Email: ```rohanyh101@gmail.com```
+- 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rohanyh/), Email: ```rohanyh101@gmail.com```
 - 📚 When I'm not working, I listen to podcasts, play cricket and volleyball.
 
+<!--
+<p align="right">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanyh101&layout=donut" alt="Top Languages" />
+    </a>
+</p>
+-->
 
 <p align="center">
 <img align="center" src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" alt="duck animation" />
