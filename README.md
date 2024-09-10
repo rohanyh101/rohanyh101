@@ -23,10 +23,10 @@
 - 🔭 I’m currently working on **eCommerce Application**
 - 🤝 Like collaborating with like-minded software developers on various
       </br> projects in interest on Microservices and Scaling
-- 🌱 I’m currently learning **Kafka, Nats, gRPC, Prometheus and Grafana**
+- 🌱 I’m currently learning about **gRPC, RabbitMQ, Prometheus & Grafana**
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/rohanyh101)
 - 💬 Ask me about anything tech related, I am happy to help;
-- 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rohanyh/), Email: ```rohanyh101@gmail.com```
+- 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rohanyh/), Email: `rohanyh101@gmail.com`
 - 📚 When I'm not working, I listen to podcasts, play cricket and volleyball.
 
 <p align="center">
